@@ -98,7 +98,7 @@ The phishing simulation designed in Task One was run last week. We analyzed the 
 ### Created Presentation
 
 I Developed a short presentation providing awareness and training materials for HR and Marketing teams to improve their security awareness and reduce susceptibility to phishing.
-
+# 
 ![Picture1](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-/assets/28285286/25270d4c-a6b7-49be-8cd7-a5314bd2f2b0)
 ![Picture2](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-/assets/28285286/33eeb932-9357-4573-98ff-ba811f225271)
 ![Picture3](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-/assets/28285286/f5aa7606-907e-411b-8d09-f3342003cc0a)
