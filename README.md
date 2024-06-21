@@ -94,6 +94,8 @@ The phishing simulation designed in Task One was run last week. We analyzed the 
 ### Teams That Performed Poorly
 - HR
 - Marketing
+
+
   
 ### Created Presentation
 
@@ -104,6 +106,11 @@ I Developed a short presentation providing awareness and training materials for 
 ![Picture3](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-/assets/28285286/f5aa7606-907e-411b-8d09-f3342003cc0a)
 ![Picture4](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-/assets/28285286/9233e7db-1a2b-4f4f-93f9-f921f2ae28ae)
  ![Picture5](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-/assets/28285286/961ba44e-81ae-4ed3-b29b-9bf8515e7a52)
+
+ ## Check Yourself
+
+It's important to stay vigilant about your online security. You can use many resources to check if your personal information has been compromised, such as [Have I Been Pwned](https://haveibeenpwned.com/). This website allows you to enter your email address to see if it has appeared in any known data breaches. It's a good idea to check these resources to ensure your accounts remain secure regularly. Additionally, consider using strong, unique passwords for each account and enabling two-factor authentication whenever possible.
+
 
 
  
